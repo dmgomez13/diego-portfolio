@@ -159,6 +159,13 @@ export default function CV() {
 
                         <p>
                             <span className="font-medium text-neutral-900 dark:text-neutral-100">
+                                Web:
+                            </span>{" "}
+                            Next.js, React, TypeScript, Tailwind CSS
+                        </p>
+                        
+                        <p>
+                            <span className="font-medium text-neutral-900 dark:text-neutral-100">
                                 IT:
                             </span>{" "}
                             Active Directory, hardware/software troubleshooting
@@ -182,7 +189,7 @@ export default function CV() {
                     <div className="mt-6">
                         <div className="flex flex-col justify-between gap-1 sm:flex-row">
                             <div>
-                                <h3 className="font-medium">CompTIA A+</h3>
+                                <h3 className="font-medium">CompTIA Security+</h3>
                                 <p className="text-sm text-neutral-500">
                                     Currently preparing for certification
                                 </p>
