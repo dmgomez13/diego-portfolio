@@ -25,7 +25,7 @@ export default function Projects() {
 
               {/* Project icon */}
               <div className="flex h-16 w-16 shrink-0 items-center justify-center rounded-full border border-neutral-200 text-neutral-700 dark:border-neutral-800 dark:text-neutral-300">
-                <FolderIcon />
+                {/* <FolderIcon /> */}
               </div>
 
               {/* Project information */}
