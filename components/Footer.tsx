@@ -3,7 +3,7 @@ export default function Footer() {
         <footer className="mt-24 border-t border-netural-200 pt-8 dark:border-neutral-800">
             <div className="flex flex-wrap gap-6 text-sm">
                 <a
-                    href="https://github.com/diegogomez"
+                    href="https://github.com/dmgomez13"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="text-neutral-500 transition-colors hover:text-neutral-950 dark:text-neutral-400 dark:hover:text-white"
